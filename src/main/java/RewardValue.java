@@ -13,6 +13,6 @@ public class RewardValue {
     }
 
     public double getMilesValue() {
-        return miles;
+        return this.miles;
     }
 }
